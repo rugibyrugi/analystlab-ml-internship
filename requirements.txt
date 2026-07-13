@@ -1,1 +1,26 @@
+# ==========================================
+# AnalystLab Africa Machine Learning Internship
+# Python Requirements
+# ==========================================
 
+# Core Data Science Libraries
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Data Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Machine Learning
+scikit-learn>=1.5.0
+
+# Jupyter/Google Colab
+jupyter>=1.0.0
+ipykernel>=6.29.0
+
+# Optional Utilities
+scipy>=1.13.0
+joblib>=1.4.0
+
+# Notebook Display
+notebook>=7.2.0
